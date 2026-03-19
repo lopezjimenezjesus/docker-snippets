@@ -12,7 +12,6 @@ data/
 !.github/workflows/
 
 # Docker
-Dockerfile*
 .dockerignore
 
 # IDE
